@@ -1,4 +1,4 @@
-# DebiaserBeware
+# Debiaser Beware!
 Repository containing Google Colab code for ["Debiaser Beware: Pitfalls of Centering Regularized Transport Maps"](https://arxiv.org/pdf/2202.08919.pdf) (ICML 2022); this is joint work with Jonathan Niles-Weed, and Marco Cuturi.
 
 Code should work out of the box. We recommend using colab with GPU enabled, otherwise the runtime becomes quite slow for large sample sizes.
